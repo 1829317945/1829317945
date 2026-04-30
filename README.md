@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Gemini;A+passionate+developer;Welcome+to+my+profile!">
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=while(true](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=while(true))+{+code();+learn();+};System.out.println(%22Hello+World%22);Initialize+Cyber-Security...;Building+the+Future.exe">
 </div>
 
 ## 🐍 My Contribution Snake
