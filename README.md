@@ -11,8 +11,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header&animation=twinkling" width="100%" />
-
 <br/>
 
 **`Corleone@github:~$ ./snake --config=github-contrib`**
