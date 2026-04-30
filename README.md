@@ -13,11 +13,6 @@
 <br/>
 
 
-
-<br/>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20World&fontSize=50)
-
 **`Corleone@github:~$ ./snake --config=github-contrib`**
 
 <picture>
@@ -31,7 +26,9 @@
 
 <br/>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mayank-Hader/Mayank-Hader/master/assets/stars.svg" width="100%" />
+</div>
 
 **`Corleone@github:~$ ls ./stack/`**
 
