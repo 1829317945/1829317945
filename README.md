@@ -1,5 +1,7 @@
 ## Hi there 👋
+## 🐍 My Contribution Snake
 
+![snake github game](https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-contribution-grid-snake.svg)
 <!--
 **1829317945/1829317945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
