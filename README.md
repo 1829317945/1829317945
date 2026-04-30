@@ -11,8 +11,8 @@
 
 <br/>
 
-<!-- 方案：使用稳定托管的流星动画 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&animation=twinkling" width="100%" />
+<!-- 调用你仓库本地的流星动画 -->
+<img src="./meteors.svg" width="100%" />
 
 <br/>
 
@@ -26,11 +26,6 @@
   <img alt="github contribution snake"
     src="https://raw.githubusercontent.com/1829317945/1829317945/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<br/>
-
-<!-- 下方星空装饰：改用这个极其稳定的源 -->
-<img src="https://raw.githubusercontent.com/adityatyagi9/adityatyagi9/master/assets/stars.svg" width="100%" />
 
 <br/>
 
