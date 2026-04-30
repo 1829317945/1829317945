@@ -5,59 +5,7 @@
 
 <br/>
 
-<!-- 烟花 SVG 背景装饰条 -->
-<svg width="680" height="120" viewBox="0 0 680 120" xmlns="http://www.w3.org/2000/svg">
-  <g transform="translate(60,60">
-    <circle r="2.5" fill="#58a6ff"><animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0s" repeatCount="indefinite"/><animate attributeName="r" values="0;2.5;0" dur="1.8s" begin="0s" repeatCount="indefinite"/></circle>
-    <line x1="0" y1="0" x2="0" y2="-16" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.1s" repeatCount="indefinite"/><animate attributeName="y2" values="0;-16;-20" dur="1.8s" begin="0.1s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="14" y2="-14" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.15s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="16" y2="0" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.2s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="14" y2="14" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.25s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-14" y2="-14" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.3s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-16" y2="0" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.35s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-14" y2="14" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.4s" repeatCount="indefinite"/></line>
-  </g>
-  <g transform="translate(200,60)">
-    <circle r="2.5" fill="#f778ba"><animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="r" values="0;2.5;0" dur="2.2s" begin="0.6s" repeatCount="indefinite"/></circle>
-    <line x1="0" y1="0" x2="0" y2="-18" stroke="#f778ba" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="0.7s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="13" y2="-13" stroke="#f778ba" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="0.75s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="18" y2="0" stroke="#f778ba" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="0.8s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="13" y2="13" stroke="#f778ba" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="0.85s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-13" y2="-13" stroke="#f778ba" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="0.9s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-18" y2="0" stroke="#f778ba" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="0.95s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-13" y2="13" stroke="#f778ba" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="1s" repeatCount="indefinite"/></line>
-  </g>
-  <g transform="translate(340,60)">
-    <circle r="2.5" fill="#e3b341"><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="1.1s" repeatCount="indefinite"/><animate attributeName="r" values="0;2.5;0" dur="1.6s" begin="1.1s" repeatCount="indefinite"/></circle>
-    <line x1="0" y1="0" x2="0" y2="-18" stroke="#e3b341" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="1.2s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="13" y2="-13" stroke="#e3b341" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="1.25s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="18" y2="0" stroke="#e3b341" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="1.3s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="13" y2="13" stroke="#e3b341" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="1.35s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-13" y2="-13" stroke="#e3b341" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="1.4s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-18" y2="0" stroke="#e3b341" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="1.45s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-13" y2="13" stroke="#e3b341" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="1.5s" repeatCount="indefinite"/></line>
-  </g>
-  <g transform="translate(480,60)">
-    <circle r="2.5" fill="#56d364"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="r" values="0;2.5;0" dur="2s" begin="0.3s" repeatCount="indefinite"/></circle>
-    <line x1="0" y1="0" x2="0" y2="-16" stroke="#56d364" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.4s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="11" y2="-11" stroke="#56d364" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.45s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="16" y2="0" stroke="#56d364" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.5s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="11" y2="11" stroke="#56d364" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.55s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-11" y2="-11" stroke="#56d364" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.6s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-16" y2="0" stroke="#56d364" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.65s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-11" y2="11" stroke="#56d364" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.7s" repeatCount="indefinite"/></line>
-  </g>
-  <g transform="translate(620,60)">
-    <circle r="2.5" fill="#39d5c4"><animate attributeName="opacity" values="0;1;0" dur="1.9s" begin="1.8s" repeatCount="indefinite"/><animate attributeName="r" values="0;2.5;0" dur="1.9s" begin="1.8s" repeatCount="indefinite"/></circle>
-    <line x1="0" y1="0" x2="0" y2="-16" stroke="#39d5c4" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.9s" begin="1.9s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="11" y2="-11" stroke="#39d5c4" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.9s" begin="1.95s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="16" y2="0" stroke="#39d5c4" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.9s" begin="2s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="11" y2="11" stroke="#39d5c4" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.9s" begin="2.05s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-11" y2="-11" stroke="#39d5c4" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.9s" begin="2.1s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-16" y2="0" stroke="#39d5c4" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.9s" begin="2.15s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-11" y2="11" stroke="#39d5c4" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.9s" begin="2.2s" repeatCount="indefinite"/></line>
-  </g>
-</svg>
+
 
 <br/>
 
@@ -71,45 +19,7 @@
 
 <br/>
 
-<!-- 烟花装饰条（底部） -->
-<svg width="680" height="40" viewBox="0 0 680 40" xmlns="http://www.w3.org/2000/svg">
-  <g transform="translate(120,20)">
-    <line x1="0" y1="0" x2="0" y2="-16" stroke="#a29bfe" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.5s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="11" y2="-11" stroke="#a29bfe" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.6s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="16" y2="0" stroke="#a29bfe" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.65s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="11" y2="11" stroke="#a29bfe" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.7s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-11" y2="-11" stroke="#a29bfe" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.75s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-16" y2="0" stroke="#a29bfe" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.8s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-11" y2="11" stroke="#a29bfe" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.85s" repeatCount="indefinite"/></line>
-  </g>
-  <g transform="translate(280,20)">
-    <line x1="0" y1="0" x2="0" y2="-18" stroke="#ff9f43" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.3s" begin="1.2s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="13" y2="-13" stroke="#ff9f43" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.3s" begin="1.3s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="18" y2="0" stroke="#ff9f43" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.3s" begin="1.35s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="13" y2="13" stroke="#ff9f43" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.3s" begin="1.4s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-13" y2="-13" stroke="#ff9f43" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.3s" begin="1.45s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-18" y2="0" stroke="#ff9f43" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.3s" begin="1.5s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-13" y2="13" stroke="#ff9f43" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.3s" begin="1.55s" repeatCount="indefinite"/></line>
-  </g>
-  <g transform="translate(440,20)">
-    <line x1="0" y1="0" x2="0" y2="-16" stroke="#f778ba" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.7s" begin="0.2s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="11" y2="-11" stroke="#f778ba" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.7s" begin="0.3s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="16" y2="0" stroke="#f778ba" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.7s" begin="0.35s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="11" y2="11" stroke="#f778ba" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.7s" begin="0.4s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-11" y2="-11" stroke="#f778ba" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.7s" begin="0.45s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-16" y2="0" stroke="#f778ba" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.7s" begin="0.5s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-11" y2="11" stroke="#f778ba" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="1.7s" begin="0.55s" repeatCount="indefinite"/></line>
-  </g>
-  <g transform="translate(580,20)">
-    <line x1="0" y1="0" x2="0" y2="-16" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.1s" begin="1.6s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="11" y2="-11" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.1s" begin="1.65s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="16" y2="0" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.1s" begin="1.7s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="11" y2="11" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.1s" begin="1.75s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-11" y2="-11" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.1s" begin="1.8s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-16" y2="0" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.1s" begin="1.85s" repeatCount="indefinite"/></line>
-    <line x1="0" y1="0" x2="-11" y2="11" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round"><animate attributeName="opacity" values="0;1;0" dur="2.1s" begin="1.9s" repeatCount="indefinite"/></line>
-  </g>
-</svg>
+
 
 <br/>
 
