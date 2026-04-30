@@ -1,0 +1,25 @@
+<svg width="800" height="150" viewBox="0 0 800 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .star { fill: #58A6FF; opacity: 0; animation: blink 3s infinite; }
+    .meteor { stroke: url(#grad); stroke-width: 2; stroke-linecap: round; opacity: 0; animation: meteor 3s infinite linear; }
+    @keyframes blink { 0%, 100% { opacity: 0; } 50% { opacity: 0.7; } }
+    @keyframes meteor {
+      0% { transform: translate(300px, -300px); opacity: 0; }
+      10% { opacity: 1; }
+      40% { transform: translate(0, 0); opacity: 0; }
+      100% { transform: translate(0, 0); opacity: 0; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="grad" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF" />
+      <stop offset="100%" stop-color="transparent" />
+    </linearGradient>
+  </defs>
+  <circle class="star" cx="50" cy="30" r="1" />
+  <circle class="star" cx="250" cy="80" r="1" style="animation-delay: 1s"/>
+  <circle class="star" cx="450" cy="50" r="1" style="animation-delay: 2s"/>
+  <line class="meteor" x1="150" y1="20" x2="180" y2="-10" style="animation-delay: 0s" />
+  <line class="meteor" x1="500" y1="40" x2="530" y2="10" style="animation-delay: 1.5s" />
+  <line class="meteor" x1="750" y1="10" x2="780" y2="-20" style="animation-delay: 0.8s" />
+</svg>
