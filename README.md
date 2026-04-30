@@ -39,3 +39,7 @@
 [![Keil MDK](https://img.shields.io/badge/Keil_MDK-03234B?style=for-the-badge&logo=arm&logoColor=white)](https://www.keil.com/)
 
 </div>
+<!-- 居中显示（可选） -->
+<div align="center">
+  <img src="https://gh-space-shooter.vercel.app/api/gamify?user=你的GitHub用户名&theme=dark" alt="我的太空射击统计" width="100%" />
+</div>
