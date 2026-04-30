@@ -41,5 +41,5 @@
 </div>
 <!-- 居中显示（可选） -->
 <div align="center">
-  <img src="https://gh-space-shooter.vercel.app/api/gamify?user=你的GitHub用户名&theme=dark" alt="我的太空射击统计" width="100%" />
+  <img src="https://gh-space-shooter.vercel.app/api/gamify?user=1829317945&theme=dark" alt="我的太空射击统计" width="100%" />
 </div>
