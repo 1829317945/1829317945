@@ -11,8 +11,8 @@
 
 <br/>
 
-<!-- 流星动画装饰条 -->
-<img src="https://raw.githubusercontent.com/Ashutosh00710/Ashutosh00710/master/assets/star-bg.svg" width="100%" />
+<!-- 方案：使用稳定托管的流星动画 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&animation=twinkling" width="100%" />
 
 <br/>
 
@@ -29,9 +29,10 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mayank-Hader/Mayank-Hader/master/assets/stars.svg" width="100%" />
-</div>
+<!-- 下方星空装饰：改用这个极其稳定的源 -->
+<img src="https://raw.githubusercontent.com/adityatyagi9/adityatyagi9/master/assets/stars.svg" width="100%" />
+
+<br/>
 
 **`Corleone@github:~$ ls ./stack/`**
 
