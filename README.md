@@ -12,7 +12,7 @@
 <br/>
 
 <!-- 调用你仓库本地的流星动画 -->
-<img src="./meteors.svg" width="100%" />
+<img src="./liuxing.svg" width="100%" />
 
 <br/>
 
