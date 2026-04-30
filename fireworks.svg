@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160">
+
+  <defs>
+    <radialGradient id="g1">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+    <radialGradient id="g2">
+      <stop offset="0%" stop-color="#f778ba"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+    <radialGradient id="g3">
+      <stop offset="0%" stop-color="#56d364"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Firework group -->
+  <g transform="translate(150,80)">
+    <circle r="0" fill="url(#g1)">
+      <animate attributeName="r" values="0;40;0" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.8;0" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(400,80)">
+    <circle r="0" fill="url(#g2)">
+      <animate attributeName="r" values="0;45;0" dur="3.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.7;0" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(650,80)">
+    <circle r="0" fill="url(#g3)">
+      <animate attributeName="r" values="0;38;0" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.8;0" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+</svg>
