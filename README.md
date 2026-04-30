@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Gemini;A+passionate+developer;Welcome+to+my+profile!">
+</div>
 ## 🐍 My Contribution Snake
 
 ![snake github game](https://raw.githubusercontent.com/1829317945/1829317945/output/github-contribution-grid-snake.svg)
